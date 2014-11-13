@@ -23,4 +23,7 @@ The app is a collection of various iOS components like slider, menu bar, toggle 
 
 - **Run the test** - In terminal, just type in "cucumber" and you are good to go. Watch out for some blogs on explaining Calabash and other stuffs related to it.
 
+- **Chapters** - We have organised the repo in a way that you will chapters under features direcory. These chpaters are organised in a way that would help you progress from basics to advanced in Calabash.
+
+
 For any help write us on *nishant@testvagrant.com*

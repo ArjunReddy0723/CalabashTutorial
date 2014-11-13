@@ -26,4 +26,8 @@ Scenario: Entering Text using Keyboard and focus using Touch command
 Scenario: Touching, Swipe and Waiting
     Given I am logged in
     Then I scroll right
+    Then I wait for "This is page2" to appear
     Then I see the text "This is page2"
+    Then I touch "Skip"
+    Then I scroll left
+    Then I wait to see "Section One"
